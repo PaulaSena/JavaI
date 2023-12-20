@@ -15,6 +15,10 @@ Bases do Java: os tipos, variáveis, como controlar o fluxo da aplicação com c
   - Print Olá, mundo
 
 ### Variáveis
+  - https://docs.oracle.com/javase/tutorial/index.html
+  - https://docs.oracle.com/javase/tutorial/reallybigindex.html
+
+
 
 ### Operadores Booleanos | Tabela Verdade
 
